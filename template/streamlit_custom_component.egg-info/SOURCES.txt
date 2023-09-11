@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+setup.py
+clickable_card/__init__.py
+clickable_card/frontend/build/asset-manifest.json
+clickable_card/frontend/build/bootstrap.min.css
+clickable_card/frontend/build/index.html
+clickable_card/frontend/build/static/js/main.0b057746.js
+clickable_card/frontend/build/static/js/main.0b057746.js.LICENSE.txt
+clickable_card/frontend/build/static/js/main.0b057746.js.map
+streamlit_custom_component.egg-info/PKG-INFO
+streamlit_custom_component.egg-info/SOURCES.txt
+streamlit_custom_component.egg-info/dependency_links.txt
+streamlit_custom_component.egg-info/requires.txt
+streamlit_custom_component.egg-info/top_level.txt
